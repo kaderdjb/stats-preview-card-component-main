@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-using-flexbox-LKVVfLSlT](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-flexbox-LKVVfLSlT)
-- Live Site URL: [https://bnkaziz.github.io/stats-preview-card-component-main/](https://bnkaziz.github.io/stats-preview-card-component-main/)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-using-css-flexbox-jW7JjGvpC](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-css-flexbox-jW7JjGvpC)
+- Live Site URL: [https://kaderdjb.github.io/stats-preview-card-component-main/](https://kaderdjb.github.io/stats-preview-card-component-main/)
 
 ## My process
 
